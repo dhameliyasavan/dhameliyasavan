@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Savan Dhameliya </h1>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<!--
-**dhameliyasavan/dhameliyasavan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💪 I Have total 3+ years of experiences
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Full stack projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **PHP Laravel, Codeigniter,  NestJS, Nodejs, Express JS, React JS, React Native, MySQL**
+
+- 📫 How to reach me **savandhameliya1sd@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/savan-dhameliya/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="dhameliyasavan" height="40" width="40" /></a>
+  
+</p>
+
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhameliyasavan&show_icons=true&locale=en&layout=compact" alt="dhameliyasavan" /></p>
+
+<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=dhameliyasavan&show_icons=true&locale=en" alt="dhameliyasavan" /></p>
