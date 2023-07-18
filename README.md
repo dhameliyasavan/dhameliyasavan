@@ -11,8 +11,9 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/savan-dhameliya/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="dhameliyasavan" height="40" width="40" /></a>
 
 <a href="https://savandhameliya.in/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="dhameliyasavan" height="40" width="40" /></a>
+</p>
 </p>
