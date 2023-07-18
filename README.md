@@ -16,6 +16,3 @@
   
 </p>
 
-<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhameliyasavan&show_icons=true&locale=en&layout=compact" alt="dhameliyasavan" /></p>
-
-
