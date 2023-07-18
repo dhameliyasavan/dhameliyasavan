@@ -18,4 +18,4 @@
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhameliyasavan&show_icons=true&locale=en&layout=compact" alt="dhameliyasavan" /></p>
 
-<p><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=dhameliyasavan&show_icons=true&locale=en" alt="dhameliyasavan" /></p>
+
