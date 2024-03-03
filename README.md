@@ -1,19 +1,21 @@
 <h1 align="center">Hi 👋, I'm Savan Dhameliya </h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
-
-- 💪 I Have total 3+ years of experiences
-
-- 🔭 I’m currently working on **Full stack projects**
-
-- 💬 Ask me about **PHP Laravel, Codeigniter,  NestJS, Nodejs, Express JS, React JS, React Native, MySQL**
-
-- 📫 How to reach me **savandhameliya1sd@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/savan-dhameliya/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="dhameliyasavan" height="40" width="40" /></a>
+- 🚀 Highly Skilled Full Stack Developer | Laravel | React Native | Node.js
+- 💪 I Have Total 4+ Years Experiences
+- 💼 Expertise :
+  - Laravel | CodeIgniter 3 | Node.js | Express.js
+  - React Native | React JS | Electron JS
+  - API Integration | Graph QL | GIT
+  - MySQL | Mongo DB | PostgreSQL
 
-<a href="https://savandhameliya.in/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5602/5602732.png" alt="dhameliyasavan" height="40" width="40" /></a>
-</p>
-</p>
+
+#### 🎯 What I Bring to the Table:
+I am committed to delivering innovative solutions tailored to meet the unique needs of each project. With a keen eye for detail and a focus on efficiency, I thrive in fast-paced environments where I can contribute my skills towards achieving business objectives. My strong background in API integration and project management ensures seamless collaboration and successful project delivery.
+
+#### 🔗 Let's Connect!:
+Visit my website to learn more about my work and explore how I can add value to your business: https://savandhameliya.in
+
+#### 📩 Get in Touch:
+Feel free to reach out to me via LinkedIn or through my website. I'm always open to discussing potential collaborations, networking opportunities, or just chatting about the latest developments in the tech world!
+
