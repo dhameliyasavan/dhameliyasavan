@@ -5,7 +5,7 @@
 - 💪 I Have Total 4+ Years Experiences
 - 💼 Expertise :
   - Laravel | CodeIgniter 3 | Node.js | Express.js
-  - React Native | React JS | Electron JS
+  - React Native | React JS | Electron JS | Vue JS
   - API Integration | Graph QL | GIT
   - MySQL | Mongo DB | PostgreSQL
 
